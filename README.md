@@ -1,5 +1,6 @@
 <div align="center" width="50">
-    <img alt="wijegoonawardana.com" src="C:\Users\Deigoro.DESKTOP-K25BT01\Desktop\Sin título-1www.png" width="300"/>
+    <img alt="wijegoonawardana.com" src="![Uploading Sin título-1www.png…]()
+" width="300"/>
 </div>
 
 
