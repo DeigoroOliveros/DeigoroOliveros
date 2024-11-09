@@ -1,6 +1,24 @@
 <h1 align="center">Hi 👋, I'm Deigoro Oliveros</h1>
 
-[<img src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/header.jpg" align="center" alt="berkeli header image">](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![image](https://github.com/user-attachments/assets/e9500449-5e69-4161-8622-d5494f8a46e2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 -------------------
 &emsp;
