@@ -13,6 +13,7 @@ I am a motivated and enthusiastic individual with a solid foundation in web deve
 - 📕 **Linkedin** : [DeigoroOliveros](https://www.linkedin.com/in/deigoro-oliveros/)
 - 📷 **Instagram** : [Deigoro](https://www.instagram.com/deigoro/)
 - 🐦 **X** : [Deigoro1](https://x.com/Deigoro1)
+- 🎥 **TikTok** : [Deigoro](https://www.tiktok.com/@deigoro)
 
 
 
