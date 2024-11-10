@@ -21,7 +21,7 @@ I am a motivated and enthusiastic individual with a solid foundation in web deve
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="(https://skillicons.dev/icons?i=js,html,css,wasm)(https://skillicons.dev) />
   </a>
 </p>
 
