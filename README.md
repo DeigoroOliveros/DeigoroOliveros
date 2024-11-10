@@ -1,4 +1,4 @@
-# # Hi, I'm Deigoro Oliveros, welcome!
+# Hi, I'm Deigoro Oliveros, welcome!
 
 ## About Me :
 
