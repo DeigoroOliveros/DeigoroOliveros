@@ -26,4 +26,9 @@ I am a motivated and enthusiastic individual with a solid foundation in web deve
 </p>
 
 
+
+
+
+
+
 Last edited on: November 9th, 2024
