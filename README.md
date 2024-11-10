@@ -11,6 +11,8 @@ I am a motivated and enthusiastic individual with a solid foundation in web deve
 
 - 📧 **Email** : deigoro.oliveros@gmail.com
 - 📕 **Linkedin** : [DeigoroOliveros](https://www.linkedin.com/in/deigoro-oliveros/)
+- [DeigoroOliveros](https://www.instagram.com/deigoro/)
+
 
 
 ## What I am Good at 🧑‍💻 :
