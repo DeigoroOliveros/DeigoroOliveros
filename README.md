@@ -1,4 +1,4 @@
-# # Hi, I'm Deigoro Oliveros, welcomo!
+# # Hi, I'm Deigoro Oliveros, welcome!
 
 
 <div align="center" width="50">
