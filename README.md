@@ -19,9 +19,11 @@ I am a motivated and enthusiastic individual with a solid foundation in web deve
 
 ## What I am Good at / Skills 🧑‍💻 :
 
-(https://skillicons.dev/icons?html)](https://skillicons.dev) (https://skillicons.dev/icons?i=html)](https://skillicons.dev) (https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 
 Last edited on: November 9th, 2024
