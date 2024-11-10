@@ -1,15 +1,5 @@
 # # Hi, I'm Deigoro Oliveros, welcome!
 
-
-<div align="center" width="50">
-    <img alt="wijegoonawardana.com" src="![Uploading Sin título-1www.png…]()
-" width="300"/>
-</div>
-
-
-
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Deigoro Oliveros, Welcome. </h1>
-
 ## About Me :
 
 - 🏢 I am currently working as a **Senior Software Engineer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
