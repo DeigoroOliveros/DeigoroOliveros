@@ -7,22 +7,10 @@ I'm currently part of the Oracle ONE program at Alura Latam, where I specialize 
 
 I am a motivated and enthusiastic individual with a solid foundation in web development and basic knowledge of HTML, CSS, and JavaScript. Additionally, I have experience in creating optimized prompts for ChatGPT, a skill I use to enhance interaction in AI projects. My goal is to keep learning and contribute to dynamic projects where I can bring creativity and strengthen my knowledge in programming and user experience. I am excited about the opportunity to apply my skills in a professional environment and continue my growth in the tech field.
 
-- 🏢 I am currently working as a **Senior Software Engineer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
-- 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
-- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
-- 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
-- 🏡'Lives in **Dalugama Sri Lanka**
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
-
-<br>
-
 ## Connect with me ☕ :
 
-<br>
+- **📧** 
 
-[![@deigoro](https://img.icons8.com/fluency/48/000000/instagram-new.png "@deigoro")](https://www.instagram.com/deigoro) [![@DeigoroOliveros](https://img.icons8.com/fluency/48/000000/linkedin.png "@DeigoroOliveros")](https://www.linkedin.com/in/deigoro-oliveros/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
-
-<br>
 
 ## What I am Good at 🧑‍💻 :
 
